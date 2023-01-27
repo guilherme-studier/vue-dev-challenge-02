@@ -27,7 +27,7 @@
 ## Overview
 
 <p align="center">
-  <img alt="Pokedex logo" src="src/assets/screenshot-desktop.png" />
+  <img alt="Pokedex logo" src="src/assets/screenshot.png" />
 </p>
 
 ### Built With
