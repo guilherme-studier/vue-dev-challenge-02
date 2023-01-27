@@ -26,9 +26,10 @@ export default {
     padding: 96px 0;
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
     section {
       padding: 25px 0;
+      width: 338px;
     }
   }
 </style>

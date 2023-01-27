@@ -88,7 +88,7 @@ export default {
     white-space: nowrap;
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
     .office {
       width: 138px;
     }

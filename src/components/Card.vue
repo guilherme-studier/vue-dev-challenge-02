@@ -52,7 +52,7 @@ export default {
     padding-top: 80px;
   }
 
-  @media(max-width: 600px) {
+  @media(max-width: 800px) {
     section div:nth-child(3n+2) {
       padding-top: 0px;
     }

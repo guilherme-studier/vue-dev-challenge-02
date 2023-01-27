@@ -66,7 +66,7 @@ export default {
     margin-block: 0;
   }
 
-  @media (max-width:600px) {
+  @media (max-width: 800px) {
     header {
       margin-top: 59px;
     }
